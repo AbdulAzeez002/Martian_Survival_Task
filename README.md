@@ -28,7 +28,7 @@ The application is built with:
 #### Supplies Table
 ![screenshot](./public/images/foodList.jpg)
 #### Scheduled Table
-![screenshot](./public/images/ScheduleTable.jpg)
+![screenshot](./public/images/scheduleTable.jpg)
 
 
 
